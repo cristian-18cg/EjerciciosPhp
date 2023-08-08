@@ -1,5 +1,5 @@
 <?php
- include_once './Controladores/procesar.php';
+ include_once './procesar.php';
 
  $objOperaciones =new Operaciones(12,4);
  $objPromedio =new Promedio(10,10,8,10,10,10,30,10,10,10);
